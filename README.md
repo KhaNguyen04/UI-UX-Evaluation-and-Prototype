@@ -14,3 +14,4 @@
 
 *High-fidelity prototype demo:<br />
 -Presentation of the redesign and high-fidelity prototype using Figma<br /> 
+-Video Link: https://drive.google.com/file/d/12E5nDIinhF_naUDxDNME3uyath4fgvOy/view?usp=sharing
