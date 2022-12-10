@@ -4,13 +4,13 @@
 # Selected application: Netflix on desktop
 
 
-*Project 1 goal:
+*Project 1 goal:<br />
 Evaluate from an HCI and usability point of view for an applicaiton that will design or redesign in the next project 2
 
-*Project 2 goal: 
--Apply theories, frameworks, rules, principles, guidelines, standards learned from lectures, and reading materials.
--Enable to create a user-centered high-fidelity prototype
--Learn how to conduct usability testing in the design process
+*Project 2 goal: <br />
+-Apply theories, frameworks, rules, principles, guidelines, standards learned from lectures, and reading materials<br />
+-Enable to create a user-centered high-fidelity prototype<br />
+-Learn how to conduct usability testing in the design process<br />
 
-*High-fidelity prototype demo:
-Presentation of the redesign and high-fidelity prototype using Figma 
+*High-fidelity prototype demo:<br />
+Presentation of the redesign and high-fidelity prototype using Figma<br /> 
